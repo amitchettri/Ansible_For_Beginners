@@ -1,8 +1,8 @@
-# Workshop Exercise - Writing Your First Playbook
+# Ansible Workshop for Beginners Exercise - Writing Your First Playbook
 
 ## Table of Contents
 
-- [Workshop Exercise - Writing Your First Playbook](#workshop-exercise---writing-your-first-playbook)
+- [Ansible Workshop for Beginners Exercise - Writing Your First Playbook](#ansible-workshop-for-beginners-exercise---writing-your-first-playbook)
   - [Table of Contents](#table-of-contents)
   - [Objective](#objective)
   - [Guide](#guide)

@@ -1,8 +1,8 @@
-# Workshop Exercise - Roles: Making your playbooks reusable
+# Ansible Workshop for Beginners Exercise - Roles: Making your playbooks reusable
 
 ## Table of Contents
 
-- [Workshop Exercise - Roles: Making your playbooks reusable](#workshop-exercise---roles-making-your-playbooks-reusable)
+- [Ansible Workshop for Beginners Exercise - Roles: Making your playbooks reusable](#ansible-workshop-for-beginners-exercise---roles-making-your-playbooks-reusable)
   - [Table of Contents](#table-of-contents)
   - [Objective](#objective)
   - [Guide](#guide)

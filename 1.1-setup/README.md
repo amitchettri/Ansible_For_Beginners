@@ -1,8 +1,8 @@
-# Workshop Exercise - Check the Prerequisites
+# Ansible Workshop for Beginners Exercise - Check the Prerequisites
 
 ## Table of Contents
 
-- [Workshop Exercise - Check the Prerequisites](#workshop-exercise---check-the-prerequisites)
+- [Ansible Workshop for Beginners Exercise - Check the Prerequisites](#ansible-workshop-for-beginners-exercise---check-the-prerequisites)
   - [Table of Contents](#table-of-contents)
   - [Objective](#objective)
   - [Guide](#guide)

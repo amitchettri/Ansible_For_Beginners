@@ -1,8 +1,8 @@
-# Workshop Exercise - Conditionals, Handlers and Loops
+# Ansible Workshop for Beginners Exercise - Conditionals, Handlers and Loops
 
 ## Table of Contents
 
-- [Workshop Exercise - Conditionals, Handlers and Loops](#workshop-exercise---conditionals-handlers-and-loops)
+- [Ansible Workshop for Beginners Exercise - Conditionals, Handlers and Loops](#ansible-workshop-for-beginners-exercise---conditionals-handlers-and-loops)
   - [Table of Contents](#table-of-contents)
   - [Objective](#objective)
   - [Guide](#guide)

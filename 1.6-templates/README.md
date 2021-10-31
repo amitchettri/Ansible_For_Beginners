@@ -1,8 +1,8 @@
-# Workshop Exercise - Templates
+# Ansible Workshop for Beginners Exercise - Templates
 
 ## Table of Contents
 
-- [Workshop Exercise - Templates](#workshop-exercise---templates)
+- [Ansible Workshop for Beginners Exercise - Templates](#ansible-workshop-for-beginners-exercise---templates)
   - [Table of Contents](#table-of-contents)
   - [Objective](#objective)
   - [Guide](#guide)

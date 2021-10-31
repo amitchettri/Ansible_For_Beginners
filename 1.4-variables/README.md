@@ -1,8 +1,8 @@
-# Workshop Exercise - Using Variables
+# Ansible Workshop for Beginners Exercise - Using Variables
 
 ## Table of Contents
 
-- [Workshop Exercise - Using Variables](#workshop-exercise---using-variables)
+- [Ansible Workshop for Beginners Exercise - Using Variables](#ansible-workshop-for-beginners-exercise---using-variables)
   - [Table of Contents](#table-of-contents)
   - [Objective](#objective)
   - [Guide](#guide)

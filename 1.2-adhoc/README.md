@@ -1,8 +1,8 @@
-# Workshop Exercise - Running Ad-hoc commands
+# Ansible Workshop for Beginners Exercise - Running Ad-hoc commands
 
 ## Table of Contents
 
-- [Workshop Exercise - Running Ad-hoc commands](#workshop-exercise---running-ad-hoc-commands)
+- [Ansible Workshop for Beginners Exercise - Running Ad-hoc commands](#ansible-workshop-for-beginners-exercise---running-ad-hoc-commands)
   - [Table of Contents](#table-of-contents)
   - [Objective](#objective)
   - [Guide](#guide)
