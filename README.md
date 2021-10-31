@@ -1,5 +1,7 @@
 # Ansible Workshop for Beginners
 
+**NOTE: This guide as forked and edit only for the commandline content from the office Ansible Exercise Repository**
+
 Ansible is simple yet powerful IT automation for application deployment, configuration management, and orchestration that you can learn quickly. In this  section of this lab you will learn to use command-line Ansible for automation from the basics up to some more advanced concepts.
 
 After finishing this lab you are ready to start using Ansible for your automation requirements.
@@ -24,7 +26,7 @@ The exercises themselves should take roughly 4-5 hours.
 
 ## Lab Diagram
 
-![ansible rhel lab diagram](../rhel_lab_diagram.png)
+![ansible rhel lab diagram](rhel_lab_diagram.png)
 
 ## Command-line Ansible Exercises
 
