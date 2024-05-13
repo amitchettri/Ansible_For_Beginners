@@ -1,7 +1,5 @@
 # Ansible Workshop for Beginners
 
-**NOTE: This guide has been forked and edited only for the commandline content from the official Ansible Exercise Repository**
-
 Ansible is simple yet powerful IT automation for application deployment, configuration management, and orchestration that you can learn quickly. In this  section of this lab you will learn to use command-line Ansible for automation from the basics up to some more advanced concepts.
 
 After finishing this lab you are ready to start using Ansible for your automation requirements.
